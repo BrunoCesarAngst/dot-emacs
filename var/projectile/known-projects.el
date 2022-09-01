@@ -1,1 +1,1 @@
-("~/" "~/www/emacs-teste/" "~/www/pds/")
+("~/.emacs.d/" "~/" "~/www/emacs-teste/" "~/www/pds/")
