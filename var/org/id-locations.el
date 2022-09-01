@@ -1,0 +1,2 @@
+
+(("~/www/emacs-teste/readmen.org" "FA695390-E95A-4441-A825-8E70FFDDF21C") ("~/www/emacs-teste/pds.org" "3F2F9C49-F70C-4920-BB60-F6A165DA59C6") ("~/www/emacs-teste/teste.org" "2240D7B9-261A-4D93-B5D8-0454CF728B75") ("~/MenteExterna/20220829170551-teste.org" "608BF907-8679-4068-864D-B5993A4FF527") ("~/MenteExterna/20220829172436-coisas.org" "A62EAEC8-B384-49D0-BA44-91969EFDC2D8") ("~/www/emacs-teste/20220829211218-testesorg.org" "117F4481-1206-4E9E-A39E-3A2E3ED19DA9") ("~/www/emacs-teste/testegit.org" "AD2AC0BD-D752-48F8-BE49-9A15BB68297D"))

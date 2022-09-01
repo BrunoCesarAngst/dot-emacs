@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       FA695390-E95A-4441-A825-8E70FFDDF21C
+:END:
+#+title: READMEN
+#+date: [2022-08-30 Tue 07:56]
+
+
+* MYSYS - Tranformando coisas para fazer
+- teste
+  - teste
+    - 1y
+      - teste
+
+** Tarefas
+* TODO organização
+- [-] teste
+  - [ ] será
+  - [ ] vamos ver
+- [x] - 4
+
+#+begin_src sh :results silent
+pwd
+#+end_src
+
+#+begin_src plantuml :file sequence.png :exports results
+@startuml sequence-diagram.png
+  bruno -> teste :sera
+@enduml
+#+end_src
